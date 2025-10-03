@@ -9,7 +9,7 @@ Objective is to explore the relationship between trader performance and market  
 2. **fear_greed_index.csv**  
    - Includes date and market sentiment classification (Fear, Greed, Neutral).  
 
-3. **merged_trades_with_sentiment.csv**  
+3. **cleaned_merge_df.xls**  
    - Final dataset after merging both on `date`.
 
 ---
